@@ -1,0 +1,31 @@
+Title, Author, Genre, Cost, Length, Pages, Book type
+Iron Harbor,Cole Sampson,Thriller,1650.0,330,N/A,audioBook
+Echoes of Mars,Sarah Vance,Sci-Fi,45.0,180,N/A,audioBook
+Silent Witness,Mark Lowery,Mystery,60.0,240,N/A,audioBook
+Digital Fortress,Elena Cross,Tech,112.5,450,N/A,audioBook
+Beyond the Horizon,James Cook,Adventure,30.0,120,N/A,audioBook
+The Quantum Soul,Dr. Aris,Sci-Fi,50.0,200,N/A,audioBook
+Mindful Minutes,Zen Master,Health,25.0,100,N/A,audioBook
+Cyber Shadows,Kevin Mit,Tech,90.0,360,N/A,audioBook
+Midnight in Paris,Lucie Bell,Romance,75.0,300,N/A,audioBook
+The Last Algorithm,Ada Lovelace,Tech,55.0,220,N/A,audioBook
+Ocean’s Heart,Marina Blue,Nature,40.0,160,N/A,audioBook
+The Startup Way,Eric Rie,Business,105.0,420,N/A,audioBook
+Ghost in the Machine,S. Jobs,Thriller,62.5,250,N/A,audioBook
+Art of the Deal,T. Knight,Business,45.0,180,N/A,audioBook
+Space Odyssey,Arthur Clark,Sci-Fi,120.0,480,N/A,audioBook
+Java Programming,John Smith,Tech,200.0,N/A,400,printedBook
+The Great Gatsby,F. Fitzgerald,Classic,90.0,N/A,180,printedBook
+Brief History of Time,S. Hawking,Science,125.0,N/A,250,printedBook
+The Alchemist,Paulo Coelho,Fiction,81.5,N/A,163,printedBook
+Data Structures,G.Balekaki,Tech,250.0,N/A,500,printedBook
+The Martian,Andy Weir,Sci-Fi,184.5,N/A,369,printedBook
+Clean Code,Robert Martin,Tech,232.0,N/A,464,printedBook
+1984,George Orwell,Classic,164.0,N/A,328,printedBook
+The Hobbit,J.R.R. Tolkien,Fantasy,150.0,N/A,300,printedBook
+Art of War,Sun Tzu,History,50.0,N/A,100,printedBook
+Cracking the Code,Gayle L.,Tech,347.5,N/A,695,printedBook
+Modern OS,Andrew Tan,Tech,550.0,N/A,1100,printedBook
+Brave New World,A. Huxley,Classic,144.0,N/A,288,printedBook
+The Road,Cormac M.,Fiction,140.0,N/A,280,printedBook
+Project Hail Mary,Andy Weir,Sci-Fi,240.0,N/A,480,printedBook
